@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>helloworld.calculation</StartupObject>
+    <StartupObject>helloworld.Quiz5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,10 +53,22 @@
     <Compile Include="calculation.cs" />
     <Compile Include="constExample.cs" />
     <Compile Include="custom.cs" />
+    <Compile Include="Data.cs" />
     <Compile Include="dataTypes.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="Employ.cs" />
+    <Compile Include="EmployCustom.cs" />
+    <Compile Include="EmployDynmc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="quiz1.cs" />
+    <Compile Include="Quiz2.cs" />
+    <Compile Include="Quiz3.cs" />
+    <Compile Include="Quiz4.cs" />
+    <Compile Include="Quiz5.cs" />
+    <Compile Include="StrMethods.cs" />
+    <Compile Include="Unary.cs" />
+    <Compile Include="VariableExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
