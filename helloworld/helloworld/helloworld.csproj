@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>helloworld.Quiz5</StartupObject>
+    <StartupObject>helloworld.StrMethods</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

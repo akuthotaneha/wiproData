@@ -26,6 +26,10 @@ namespace helloworld
             string s = "Hello ";
             s.Concat("World");
             Console.WriteLine(s); // prints "Hello", because strings are immutable
+
+
+            Console.WriteLine(string.Concat(s, "World"));
+            Console.WriteLine(s);
         }
     }
 }
