@@ -1,0 +1,10 @@
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.exe.config
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.exe
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.pdb
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\bin\Debug\CalculationLibrary.dll
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\bin\Debug\CalculationLibrary.pdb
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\obj\Debug\Calculat.2EA6E86F.Up2Date
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.exe
+C:\Users\nehaa\wiproData\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.pdb
