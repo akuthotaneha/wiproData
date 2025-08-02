@@ -1,5 +1,11 @@
 
-SET NOCOUNT ON
+--SET NOCOUNT ON
+--GO
+
+use master
+go
+
+ALTER DATABASE wiprojuly SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 GO
 
 drop database wiprojuly
@@ -55,3 +61,7 @@ Insert into LeaveHistory(EmpNo, LeaveStartDate, LeaveEndDate)
 Values(1,'08/02/2025','08/05/2025'),
       (2,'09/03/2025','09/22/2025')
 GO
+
+
+
+
