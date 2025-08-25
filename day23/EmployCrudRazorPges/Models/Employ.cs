@@ -13,7 +13,7 @@ namespace EmployCrud.Models
         [Column("Name")]
         [Display(Name = "Employ Name")]
         [Required(ErrorMessage = "Name is required")]
-        [StringLength(15, ErrorMessage = "Name cannot exceed 50 characters")]
+        [StringLength(15, ErrorMessage = "Name cannot exceed 15 characters")]
         public string? Name { get; set; }
 
 
